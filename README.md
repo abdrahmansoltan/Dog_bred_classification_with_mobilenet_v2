@@ -1,1 +1,1 @@
-# Dog_bred_classification_with_mobilenet_v2
+# Dog_breed_classification_with_mobilenet_v2
